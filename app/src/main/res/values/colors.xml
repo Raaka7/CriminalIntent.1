@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ci_navy">#1F3A5F</color>
+    <color name="ci_navy_dark">#152842</color>
+    <color name="ci_amber">#F2A541</color>
+    <color name="ci_solved">#2E7D32</color>
+    <color name="ci_photo_bg">#DDDDDD</color>
+</resources>
